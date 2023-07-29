@@ -1,5 +1,5 @@
 /**
- * MEMBUAT REPOSITORY
+ * MEMBUAT REPOSITORY DAN MENCLONE/COPY HASIL CODINGAN ORANG
  * 1. Membuat repository
  * 2. Input Nama repository
  * 3. Centang "Add a README file"
@@ -13,5 +13,7 @@
 /**
  * UNTUK MENGUMPULKAN TASK
  * 1. Buka terminal di vscode
- * 
+ * 2. Ekseskusi git add .
+ * 3. Ekseskusi git commit -m "message"
+ * 4. Ekseskusi git push origin master
  */
